@@ -4,10 +4,10 @@
 ```
 yarn install
 
-// development
+# development
 yarn serve
 
-// production
+# production
 yarn build
 ```
 

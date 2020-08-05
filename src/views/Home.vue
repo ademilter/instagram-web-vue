@@ -6,8 +6,8 @@
 
 <script>
 export default {
-  name: "Home"
-};
+  name: 'Home'
+}
 </script>
 
 <style scoped>
@@ -15,7 +15,7 @@ h1 {
   color: red;
 
   @media (--t) {
-    color:blue;
+    color: blue;
   }
 }
 </style>
