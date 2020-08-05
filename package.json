@@ -29,6 +29,7 @@
     "postcss-custom-media": "^7.0.8",
     "postcss-nested": "^4.2.3",
     "prettier": "^1.19.1",
+    "vue-svg-loader": "^0.16.0",
     "vue-template-compiler": "^2.6.11"
   }
 }
