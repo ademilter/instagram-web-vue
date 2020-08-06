@@ -17,6 +17,7 @@ yarn build
 - [x] CSS alt yapısı ve tipografi. projedeki (svg) ikonların hazırlanması.
 - [x] Sayfaları oluşturalım. Master-Page oluşturalım.
 - [x] Header tasarımı ve Anasayfa için layout oluşturalım.
+- [x] Demo sayfası için vercel deploy
 - [ ] Anasayfadaki stories alanı. Flickty slider
 - [ ] Anasayfadaki post componenti
 - [ ] Anasayfa için api ve infinite-scroll
