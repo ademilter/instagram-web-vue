@@ -14,8 +14,8 @@ yarn build
 ## TODOS
 
 - [x] Vue ve React arasındaki fark. vue-cli ile proje kurulumu.
-- [ ] CSS alt yapısı ve tipografi. projedeki (svg) ikonların hazırlanması.
-- [ ] Sayfaları oluşturalım. Master-Page oluşturalım.
+- [x] CSS alt yapısı ve tipografi. projedeki (svg) ikonların hazırlanması.
+- [x] Sayfaları oluşturalım. Master-Page oluşturalım.
 - [ ] Header tasarımı ve Anasayfa için layout oluşturalım.
 - [ ] Anasayfadaki stories alanı. Flickty slider
 - [ ] Anasayfadaki post componenti
