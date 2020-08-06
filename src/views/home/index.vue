@@ -6,6 +6,67 @@
     <CustomText class="a3" tag="p" size="xsmall">Merhaba dünya</CustomText>
     <CustomText tag="p" size="xxsmall">Merhaba dünya</CustomText>
     <IconHome width="60" height="60" />
+
+    <p>
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum, eius
+      vero. Alias aut blanditiis commodi consectetur eligendi, et minima
+      officiis omnis optio pariatur quod quos repudiandae rerum sed tempora
+      voluptatibus?
+    </p>
+    <p>
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum, eius
+      vero. Alias aut blanditiis commodi consectetur eligendi, et minima
+      officiis omnis optio pariatur quod quos repudiandae rerum sed tempora
+      voluptatibus?
+    </p>
+    <p>
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum, eius
+      vero. Alias aut blanditiis commodi consectetur eligendi, et minima
+      officiis omnis optio pariatur quod quos repudiandae rerum sed tempora
+      voluptatibus?
+    </p>
+    <p>
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum, eius
+      vero. Alias aut blanditiis commodi consectetur eligendi, et minima
+      officiis omnis optio pariatur quod quos repudiandae rerum sed tempora
+      voluptatibus?
+    </p>
+    <p>
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum, eius
+      vero. Alias aut blanditiis commodi consectetur eligendi, et minima
+      officiis omnis optio pariatur quod quos repudiandae rerum sed tempora
+      voluptatibus?
+    </p>
+    <p>
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum, eius
+      vero. Alias aut blanditiis commodi consectetur eligendi, et minima
+      officiis omnis optio pariatur quod quos repudiandae rerum sed tempora
+      voluptatibus?
+    </p>
+    <p>
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum, eius
+      vero. Alias aut blanditiis commodi consectetur eligendi, et minima
+      officiis omnis optio pariatur quod quos repudiandae rerum sed tempora
+      voluptatibus?
+    </p>
+    <p>
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum, eius
+      vero. Alias aut blanditiis commodi consectetur eligendi, et minima
+      officiis omnis optio pariatur quod quos repudiandae rerum sed tempora
+      voluptatibus?
+    </p>
+    <p>
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum, eius
+      vero. Alias aut blanditiis commodi consectetur eligendi, et minima
+      officiis omnis optio pariatur quod quos repudiandae rerum sed tempora
+      voluptatibus?
+    </p>
+    <p>
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum, eius
+      vero. Alias aut blanditiis commodi consectetur eligendi, et minima
+      officiis omnis optio pariatur quod quos repudiandae rerum sed tempora
+      voluptatibus?
+    </p>
   </div>
 </template>
 
