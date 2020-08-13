@@ -4,7 +4,7 @@
   margin: 0;
   padding: 0;
   border: 0;
-  font: inherit;
+  font-family: inherit;
 
   *,
   *:before,
@@ -20,6 +20,7 @@ html {
 
 body {
   font-size: 1rem;
+  font-weight: normal;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica,
     Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
   padding-top: var(--header-height);
@@ -28,4 +29,26 @@ body {
 a {
   color: inherit;
   text-decoration: none;
+}
+
+button {
+  background-color: transparent;
+  cursor: pointer;
+}
+
+img {
+  max-width: 100%;
+  vertical-align: middle;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+b,
+strong,
+label {
+  font-weight: 600;
 }
