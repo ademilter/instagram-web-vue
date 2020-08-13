@@ -3,7 +3,14 @@
     <div class="timeline">
       <h1>Home</h1>
 
-      <Avatar :size="80" />
+      <br />
+      <br />
+
+      <Post />
+
+      <br />
+      <br />
+      <br />
     </div>
 
     <div class="sidebar">
@@ -18,10 +25,10 @@
 </template>
 
 <script>
-import Avatar from '@/components/avatar'
+import Post from '@/components/Post'
 export default {
   name: 'Home',
-  components: { Avatar }
+  components: { Post }
 }
 </script>
 
