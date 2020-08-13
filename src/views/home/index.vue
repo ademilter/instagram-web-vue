@@ -2,82 +2,11 @@
   <div class="home">
     <div class="timeline">
       <h1>Home</h1>
-      <CustomText class="a1" tag="p">Merhaba dünya</CustomText>
-      <CustomText class="a2" tag="p" size="small">Merhaba dünya</CustomText>
-      <CustomText class="a3" tag="p" size="xsmall">Merhaba dünya</CustomText>
-      <CustomText tag="p" size="xxsmall">Merhaba dünya</CustomText>
-      <IconHome width="60" height="60" />
 
-      <p>
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum, eius
-        vero. Alias aut blanditiis commodi consectetur eligendi, et minima
-        officiis omnis optio pariatur quod quos repudiandae rerum sed tempora
-        voluptatibus?
-      </p>
-      <p>
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum, eius
-        vero. Alias aut blanditiis commodi consectetur eligendi, et minima
-        officiis omnis optio pariatur quod quos repudiandae rerum sed tempora
-        voluptatibus?
-      </p>
-      <p>
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum, eius
-        vero. Alias aut blanditiis commodi consectetur eligendi, et minima
-        officiis omnis optio pariatur quod quos repudiandae rerum sed tempora
-        voluptatibus?
-      </p>
-      <p>
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum, eius
-        vero. Alias aut blanditiis commodi consectetur eligendi, et minima
-        officiis omnis optio pariatur quod quos repudiandae rerum sed tempora
-        voluptatibus?
-      </p>
-      <p>
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum, eius
-        vero. Alias aut blanditiis commodi consectetur eligendi, et minima
-        officiis omnis optio pariatur quod quos repudiandae rerum sed tempora
-        voluptatibus?
-      </p>
-      <p>
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum, eius
-        vero. Alias aut blanditiis commodi consectetur eligendi, et minima
-        officiis omnis optio pariatur quod quos repudiandae rerum sed tempora
-        voluptatibus?
-      </p>
-      <p>
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum, eius
-        vero. Alias aut blanditiis commodi consectetur eligendi, et minima
-        officiis omnis optio pariatur quod quos repudiandae rerum sed tempora
-        voluptatibus?
-      </p>
-      <p>
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum, eius
-        vero. Alias aut blanditiis commodi consectetur eligendi, et minima
-        officiis omnis optio pariatur quod quos repudiandae rerum sed tempora
-        voluptatibus?
-      </p>
-      <p>
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum, eius
-        vero. Alias aut blanditiis commodi consectetur eligendi, et minima
-        officiis omnis optio pariatur quod quos repudiandae rerum sed tempora
-        voluptatibus?
-      </p>
-      <p>
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum, eius
-        vero. Alias aut blanditiis commodi consectetur eligendi, et minima
-        officiis omnis optio pariatur quod quos repudiandae rerum sed tempora
-        voluptatibus?
-      </p>
+      <Avatar :size="80" />
     </div>
 
     <div class="sidebar">
-      <p>
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum, eius
-        vero. Alias aut blanditiis commodi consectetur eligendi, et minima
-        officiis omnis optio pariatur quod quos repudiandae rerum sed tempora
-        voluptatibus?
-      </p>
-
       <p>
         Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum, eius
         vero. Alias aut blanditiis commodi consectetur eligendi, et minima
@@ -89,15 +18,10 @@
 </template>
 
 <script>
-import CustomText from '@/components/CustomText'
-import IconHome from '../../icons/home.svg'
-
+import Avatar from '@/components/avatar'
 export default {
   name: 'Home',
-  components: {
-    CustomText,
-    IconHome
-  }
+  components: { Avatar }
 }
 </script>
 
