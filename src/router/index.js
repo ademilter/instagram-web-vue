@@ -1,6 +1,7 @@
-import Home from '../views/home/index.vue'
 import Vue from 'vue'
 import VueRouter from 'vue-router'
+
+import Home from '../views/home/index.vue'
 
 Vue.use(VueRouter)
 
@@ -21,7 +22,7 @@ const routes = [
     name: 'Profile',
     component: Profile,
     children: [
-      { path: '', name: 'ProfilePost', component: ProfilePost },
+      { path: '/', name: 'ProfilePost', component: ProfilePost },
       { path: 'igtv', name: 'ProfileIGTV', component: ProfileIGTV },
       { path: 'save', name: 'ProfileSave', component: ProfileSave },
       { path: 'tag', name: 'ProfileTag', component: ProfileTag }
